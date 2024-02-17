@@ -1,0 +1,163 @@
+#hunger {
+    position:absolute;
+    left: -0.53%;
+    top:96.1%;
+    margin: 1.12%;
+    margin-left: 2%;
+    width: 2.7%;
+    height: 0.9%;
+    padding:0px;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.1%;
+    border-color: #3b383e;
+    float:left;
+    background-color:#646267;
+}
+#thirst {
+    position:absolute;
+    left: 2.3%;
+    top:96.1%;
+    margin: 1.12%;
+    margin-left: 2%;
+    width: 2.7%;
+    height: 0.9%;
+    padding:0px;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.1%;
+    border-color: #3b383e;
+    float:left;
+    background-color:#646267;
+}
+#heal {
+    position:absolute;
+    left: -0.53%;
+    top:94.8%;
+    margin: 1.12%;
+    margin-left: 2%;
+    width: 6.9%;
+    height: 0.9%;
+    padding:0px;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.1%;
+    border-color: #3b383e;
+    float:left;
+    background-color:#646267;
+}
+#armor {
+    position:absolute;
+    left: -3.3%;
+    top:94.8%;
+    margin: 1.12%;
+    margin-left: 11.7%;
+    width: 6.9%;
+    height: 0.9%;
+    padding:0px;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.1%;
+    border-color: #3b383e;
+    float:left;
+    background-color:#646267;
+}
+#stamina {
+    position:absolute;
+    left: 5.1%;
+    top:96.1%;
+    margin: 1.12%;
+    margin-left: 2%;
+    width: 2.7%;
+    height: 0.9%;
+    padding:0px;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.1%;
+    border-color: #3b383e;
+    float:left;
+    background-color:#646267;
+}
+#drunk {
+    position:absolute;
+    left: 10.07%;
+    top:96.1%;
+    margin: 1.12%;
+    margin-left: 2%;
+    width: 3.25%;
+    height: 0.9%;
+    padding:0px;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.1%;
+    border-color: #3b383e;
+    float:left;
+    background-color:#646267;
+}
+#voice {
+    position:absolute;
+    left: 7.90%;
+    top:96.1%;
+    margin: 1.12%;
+    margin-left: 2%;
+    width: 2.7%;
+    height: 0.9%;
+    padding:0px;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.1%;
+    border-color: #3b383e;
+    float:left;
+    background-color:#646267;
+}
+#boxDrunk {
+    background: #00a040;
+    width: 0%;
+    height: 100%;
+    transition: 0.2s ease-in-out;
+}
+
+#boxHunger, #boxThirst {
+    background: #00a040;
+    width: 100%;
+    height: 100%;
+    transition: 0.2s ease-in-out;
+}
+
+#box, #boxArmor, #boxStamina {
+    background: rgba(175, 0, 0, 177);
+    width: 100%;
+    height: 100%;
+    transition: 0.2s ease-in-out;
+}
+#boxVoice {
+    background: rgba(188, 188, 188, 80);
+    width: 50%;
+    height: 100%;
+    transition: 0.2s ease-in-out;
+}
+#boxHunger {
+    background: #bc6900;
+}
+#boxThirst {
+    background: rgba(75, 75, 255, 177);
+}
+
+#boxDrunk {
+    background: rgba(200, 5, 5, 177);
+}
+
+#boxStamina {
+    background: rgba(255, 255, 55, 177);
+}
+
+#boxArmor {
+    background: rgba(0, 0, 0, 177);
+}
+
+body {
+    overflow: hidden;
+    height:1080px;
+    width:100%;
+    opacity: 0.7;
+}
