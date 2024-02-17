@@ -1,0 +1,26 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 01:54:56
+================================================================
+
+================================================================
+======== Log Rotated - 9/25/2023, 01:54:56                      
+================================================================
+[01:56:20][KaelKanaeru] logged in from 127.0.0.1 via citizenfx
+[02:06:21][KaelKanaeru] executed "RESTART SERVER"
+[02:08:59][KaelKanaeru] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/25/2023, 04:32:00
+================================================================
+[04:34:10][KaelKanaeru] logged in from 127.0.0.1 via password
+[04:48:17][KaelKanaeru] executed "refresh"
+[04:48:42][KaelKanaeru] executed "ensure "dpclothing""
+[04:50:08][KaelKanaeru] executed "refresh"
+[04:50:21][KaelKanaeru] executed "stop "esx_accessories""
+[05:00:55][KaelKanaeru] executed "refresh"
+[05:01:07][KaelKanaeru] executed "ensure "dpemotes""
+[06:12:22][KaelKanaeru] executed "refresh"
+[06:12:34][KaelKanaeru] executed "ensure "SimpleCarHUD""
+[06:15:25][KaelKanaeru] executed "stop "esx_cruisecontrol""
+[06:21:27][KaelKanaeru] executed "ensure "SimpleCarHUD""

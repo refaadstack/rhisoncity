@@ -1,0 +1,33 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/26/2023, 03:26:19
+================================================================
+
+================================================================
+======== Log Rotated - 9/26/2023, 03:26:19                      
+================================================================
+[03:26:22][KaelKanaeru] logged in from 127.0.0.1 via password
+[03:30:27][KaelKanaeru] executed "stop "esx_context""
+[03:34:04][KaelKanaeru] executed "ensure "esx_context""
+[03:35:27][KaelKanaeru] executed "ensure "esx_context""
+[03:36:27][KaelKanaeru] executed "ensure "esx_context""
+[03:37:23][KaelKanaeru] executed "ensure "esx_context""
+[03:39:16][KaelKanaeru] executed "ensure "SimpleCarHUD""
+[03:44:22][KaelKanaeru] executed "refresh"
+[03:45:06][KaelKanaeru] executed "refresh"
+[03:45:11][KaelKanaeru] executed "RESTART SERVER"
+[03:56:44][KaelKanaeru] executed "ensure "vSyncR""
+[04:00:31][KaelKanaeru] executed "refresh"
+[04:01:41][KaelKanaeru] executed "RESTART SERVER"
+[04:48:46][KaelKanaeru] executed "RESTART SERVER"
+[05:04:11][KaelKanaeru] executed "ensure "esx_context""
+[05:04:22][KaelKanaeru] executed "RESTART SERVER"
+[05:06:41][KaelKanaeru] executed "RESTART SERVER"
+[05:37:50][KaelKanaeru] executed "refresh"
+[05:38:00][KaelKanaeru] executed "refresh"
+[05:38:12][KaelKanaeru] executed "ensure "esx_garasi""
+[05:50:27][KaelKanaeru] executed "refresh"
+[05:50:34][KaelKanaeru] executed "ensure "esx_hud""
+[06:12:13][KaelKanaeru] executed "refresh"
+[06:12:31][KaelKanaeru] executed "ensure "cuaca""
+[06:15:20][KaelKanaeru] executed "ensure "cuaca""

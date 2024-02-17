@@ -1,0 +1,57 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 15:48:04
+================================================================
+
+================================================================
+======== Log Rotated - 10/4/2023, 15:48:04                      
+================================================================
+[16:55:33][KaelKanaeru] logged in from 127.0.0.1 via password
+[16:56:08][KaelKanaeru] Sending announcement: yang baca goblok
+[16:56:24][KaelKanaeru] Sending announcement: yang baca bego
+[16:56:44][KaelKanaeru] Sending announcement: yang baca temennya piky
+[16:58:57][KaelKanaeru] Sending announcement: yang baca temen piky
+[16:59:30][KaelKanaeru] Sending announcement: yang baca saudara piky
+[17:07:12][KaelKanaeru] executed "refresh"
+[17:07:16][KaelKanaeru] executed "ensure "esx_farmer""
+[17:17:57][KaelKanaeru] executed "ensure "esx_farmer""
+[17:52:14][KaelKanaeru] executed "refresh"
+[17:52:21][KaelKanaeru] executed "ensure "esx_farmer""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 18:06:13
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 18:06:46
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 18:07:57
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 18:12:57
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 18:42:08
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 22:56:11
+================================================================
+[23:13:56][KaelKanaeru] logged in from 127.0.0.1 via password
+[23:14:16][KaelKanaeru] Added f3c4e3230175094d5d02536d7c86fa28b1aa08f4 to the whitelist.
+[23:25:47][KaelKanaeru] executed "refresh"
+[23:26:09][KaelKanaeru] executed "refresh"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 23:27:20
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/4/2023, 23:28:41
+================================================================
+[23:29:53][KaelKanaeru] logged in from 127.0.0.1 via password
+[23:30:04][KaelKanaeru] executed "ensure "vehicles""

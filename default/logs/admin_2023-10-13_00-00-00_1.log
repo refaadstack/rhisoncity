@@ -1,0 +1,14 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/13/2023, 00:37:05
+================================================================
+
+================================================================
+======== Log Rotated - 10/13/2023, 00:37:05                     
+================================================================
+[00:38:28][KaelKanaeru] logged in from 127.0.0.1 via password
+[00:38:45][KaelKanaeru] executed "ensure "vehicles2""
+[00:38:52][KaelKanaeru] executed "ensure "vehicles""
+[00:44:01][KaelKanaeru] executed "stop "esx_hud""
+[01:08:58][KaelKanaeru] executed "ensure "ic_bar""
+[01:11:43][KaelKanaeru] executed "ensure "esx_basicneeds""

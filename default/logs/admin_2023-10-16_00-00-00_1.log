@@ -1,0 +1,37 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 10/16/2023, 20:02:17
+================================================================
+
+================================================================
+======== Log Rotated - 10/16/2023, 20:02:17                     
+================================================================
+[20:05:12][KaelKanaeru] logged in from 127.0.0.1 via password
+[20:05:34][KaelKanaeru] executed "ensure "vehicles""
+[20:05:37][KaelKanaeru] executed "ensure "vehicles2""
+[20:06:02][KaelKanaeru] executed "ensure "body""
+[20:07:29][KaelKanaeru] executed "ensure "body""
+[20:09:06][KaelKanaeru] executed "RESTART SERVER"
+[20:10:09][KaelKanaeru] executed "refresh"
+[20:10:25][KaelKanaeru] executed "ensure "body""
+[20:12:15][KaelKanaeru] Added fa0d789558d50bf8db1c6697e62bda7f60706fcd to the whitelist.
+[20:12:18][KaelKanaeru] Added 8001674fef95f68c7a2846ba0c5731f72ff3f3a7 to the whitelist.
+[20:12:21][KaelKanaeru] Added 199a694420fee69b439d4926e0573daf26a2f1ae to the whitelist.
+[20:12:25][KaelKanaeru] Added 84365521656bac8d405d6205abe5d1e034d81cc8 to the whitelist.
+[20:22:32][KaelKanaeru] executed "refresh"
+[20:22:42][KaelKanaeru] executed "ensure "vehiclecon""
+[20:27:09][KaelKanaeru] executed "ensure "vehicles2""
+[20:41:14][KaelKanaeru] executed "RESTART SERVER"
+[21:05:49][KaelKanaeru] executed "RESTART SERVER"
+[21:08:20][KaelKanaeru] executed "RESTART SERVER"
+[21:10:17][KaelKanaeru] executed "RESTART SERVER"
+[21:12:30][KaelKanaeru] executed "RESTART SERVER"
+[21:16:15][KaelKanaeru] executed "RESTART SERVER"
+[21:33:03][KaelKanaeru] executed "RESTART SERVER"
+[21:36:19][KaelKanaeru] executed "RESTART SERVER"
+[21:43:38][KaelKanaeru] executed "RESTART SERVER"
+[21:48:07][KaelKanaeru] executed "RESTART SERVER"
+[22:02:50][KaelKanaeru] executed "RESTART SERVER"
+[22:16:38][KaelKanaeru] executed "RESTART SERVER"
+[22:20:42][KaelKanaeru] executed "RESTART SERVER"
+[22:25:02][KaelKanaeru] executed "RESTART SERVER"

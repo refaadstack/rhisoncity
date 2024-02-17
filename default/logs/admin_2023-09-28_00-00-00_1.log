@@ -1,0 +1,20 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/28/2023, 04:10:40
+================================================================
+
+================================================================
+======== Log Rotated - 9/28/2023, 04:10:41                      
+================================================================
+[04:11:36][KaelKanaeru] logged in from 127.0.0.1 via password
+[04:12:50][KaelKanaeru] executed "refresh"
+[04:12:56][KaelKanaeru] executed "RESTART SERVER"
+[04:23:57][KaelKanaeru] executed "RESTART SERVER"
+[04:24:05][KaelKanaeru] executed "refresh"
+[04:26:07][KaelKanaeru] executed "refresh"
+[04:26:18][KaelKanaeru] executed "ensure "ocrp_postal_map""
+[04:31:02][KaelKanaeru] executed "refresh"
+[04:31:09][KaelKanaeru] executed "ensure "LegacyFuel""
+[04:35:20][KaelKanaeru] executed "refresh"
+[04:35:30][KaelKanaeru] executed "ensure "LegacyFuel""
+[04:37:02][KaelKanaeru] executed "ensure "LegacyFuel""

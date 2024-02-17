@@ -1,0 +1,830 @@
+
+================================================================
+======== Log Rotated - 10/6/2023, 00:00:00                      
+================================================================
+[ citizen-server-impl] sync thread hitch warning: timer interval of 124 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;220m[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 251 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 227 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 536 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[      script:oxmysql] Error: esx_givevehicle was unable to execute a query!
+[      script:oxmysql] Query: INSERT INTO owned_vehicles (owner, plate, vehicle, stored, type) VALUES (?, ?, ?, ?,?, ?)
+[      script:oxmysql] ["char1:5c6c4e0a452aac736553fa42e416510a1c8540d5","B 0 GEL","{\"tyreSmokeColor\":[255,255,255],\"modFender\":-1,\"modBackWheels\":-1,\"model\":-1432034260,\"modSteeringWheel\":-1,\"modBrakes\":-1,\"modSpoilers\":-1,\"modDial\":-1,\"modTrunk\":-1,\"wheelColor\":1,\"modTurbo\":false,\"modHorns\":-1,\"neonEnabled\":[false,false,false,false],\"tyreBurst\":{\"5\":false,\"0\":false,\"1\":false,\"4\":false},\"driftTyresEnabled\":true,\"modSmokeEnabled\":false,\"modHood\":-1,\"modRoof\":-1,\"modPlateHolder\":-1,\"modShifterLeavers\":-1,\"modEngineBlock\":-1,\"modDashboard\":-1,\"modVanityPlate\":-1,\"modCustomBackWheels\":false,\"windowsBroken\":{\"5\":true,\"4\":true,\"3\":false,\"2\":false,\"1\":false,\"0\":false,\"7\":false,\"6\":false},\"modEngine\":-1,\"modSuspension\":-1,\"modRoofLivery\":-1,\"tankHealth\":1000.0,\"modRightFender\":-1,\"pearlescentColor\":29,\"modRearBumper\":-1,\"interiorColor\":0,\"tyresCanBurst\":1,\"modTrimA\":-1,\"windowTint\":-1,\"modStruts\":-1,\"modSpeakers\":-1,\"xenonColor\":255,\"fuelLevel\":65.0,\"engineHealth\":1000.0,\"modFrontWheels\":-1,\"modArmor\":-1,\"modHydrolic\":-1,\"modAPlate\":-1,\"bodyHealth\":1000.0,\"modXenon\":false,\"plate\":\"B 0 GEL\",\"modFrontBumper\":-1,\"modSeats\":-1,\"modAirFilter\":-1,\"modExhaust\":-1,\"dirtLevel\":5.0,\"neonColor\":[255,0,255],\"color2\":0,\"modCustomFrontWheels\":false,\"modSideSkirt\":-1,\"modTransmission\":-1,\"plateIndex\":1,\"modFrame\":-1,\"modTrimB\":-1,\"modLightbar\":-1,\"modLivery\":-1,\"modArchCover\":-1,\"modAerials\":-1,\"modOrnaments\":-1,\"color1\":29,\"dashboardColor\":0,\"wheels\":7,\"modWindows\":-1,\"modGrille\":-1,\"modDoorSpeaker\":-1,\"doorsBroken\":{\"4\":false,\"3\":false,\"2\":false,\"1\":false,\"0\":false},\"modTank\":-1,\"extras\":[]}",1,"SanAndreasAvenue","car"]
+[      script:oxmysql] Column count doesn't match value count at row 1
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[     script:esx_skin] SCRIPT ERROR: @esx_skin/server/main.lua:45: attempt to index a nil value (local 'file')
+[     script:esx_skin] SCRIPT ERROR: @esx_skin/server/main.lua:45: attempt to index a nil value (local 'file')
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] [0mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 725 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 573 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 623 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 236 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 822 milliseconds
+[38;5;199m[         script:chat] Mєmbunuh Kuman:  
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 763 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 1120 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 460 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 257 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 330 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 1125 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 488 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 333 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 763 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 925 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over [36m0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 253 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 138 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 281 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 251 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 1240 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 777 milliseconds
+[38;5;220m[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] [0msync thread hitch warning: timer interval of 145 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 443 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 574 milliseconds
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 304 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 163 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 275 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 272 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 151 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 141 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 489 milliseconds
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 425 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;220m[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over 0.0[0m ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+> txaReportResources
+[38;5;84m[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 1081 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 876 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 111 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO[0m] Saved 2 players over 0.0 ms
+[ citizen-server-impl] sync thread hitch warning: timer interval of 443 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 215 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 546 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 418 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 519 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 555 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 720 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 717 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;220m[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 190 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;220m[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 175 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 1435 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 786 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 266 milliseconds
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 1611 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 1467 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 711 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 363 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 241 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 1458 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 816 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 1726 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 1175 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 439 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] [0mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] network thread hitch warning: timer interval of 259 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 272 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 273 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 311 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 142 milliseconds
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 227 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 229 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 235 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 276 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 235 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 243 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 245 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 211 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 310 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 218 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 263 milliseconds
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 234 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 198 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 217 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 243 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 267 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 216 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 262 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 296 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 208 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 218 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 245 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 208 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 305 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 285 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 212 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 278 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 243 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 235 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 281 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 251 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 237 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 250 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 217 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 246 milliseconds
+[38;5;220m[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] network thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 237 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 327 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 242 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 226 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 228 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 313 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 283 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 290 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 186 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 237 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 276 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 271 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 228 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 329 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 219 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 245 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 352 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 216 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 253 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 293 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 295 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 227 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 251 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 206 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 258 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 216 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 239 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 273 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 229 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 279 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 230 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 263 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 206 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 230 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 266 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 214 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 323 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 251 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 264 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 212 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 283 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 226 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 228 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 208 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 281 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 220 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 310 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 341 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 275 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 211 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 229 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 321 milliseconds
+[38;5;220m[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] network thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 292 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 326 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 246 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 281 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 217 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 211 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 255 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 212 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 244 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 291 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 243 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 226 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 291 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 245 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] network thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 257 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 292 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 325 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 228 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 256 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 300 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 309 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 246 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 328 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 229 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 234 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 2 players over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 399 milliseconds
+[  script:es_extended] [INFO] Saved player "Bapiii Morrow"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [0m[INFO] Saved player "Bejo Kontol"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+
+================================================================
+======== FXServer Starting - 10/6/2023, 13:45:51                
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 95 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin][97m Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[38;5;83m[           resources] Started resource NoNPC
+[    c-scripting-core] Creating script environments for cron
+[38;5;83m[           resources] Started resource cron
+[38;5;161m[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[38;5;161m[    c-scripting-core] Creating script environments for esx_status
+[           resources] [0mStarted resource esx_status
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_identity
+[38;5;83m[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for LegacyFuel
+[           resources] Started resource LegacyFuel
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ac_scoreboard
+[resources:ac_scorebo] Warning: could not find file `web/build/index.html` (defined in fxmanifest.lua:27)
+[           resources] Started resource ac_scoreboard (1 warning)
+[           resources] Started resource dpclothing
+[    c-scripting-core] Creating script environments for dpemotes
+[           resources] Started resource dpemotes
+[    c-scripting-core] Creating script environments for esx-radio
+[    c-scripting-core] Failed to load script @ox_lib/init.lua.
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] [0mStarted resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_farmer
+[           resources] Started resource esx_farmer
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_givevehicle
+[           resources] Started resource esx_givevehicle
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[    c-scripting-core] Creating script environments for esx_wsync
+[  script:es_extended] [ERROR] Resource esx_wsync Used the getSharedObject Event, this event no longer exists! Visit https://documentation.esx-framework.org/tutorials/tutorials-esx/sharedevent for how to fix!
+[    script:esx_wsync] SCRIPT ERROR: @esx_wsync/server/main.lua:97: attempt to index a nil value (global 'ESX')
+[           resources] Started resource esx_wsync
+[           resources] Started resource SimpleCarHUD
+[           resources] Started resource ocrp_postal_map
+[ citizen-server-impl] Couldn't find resource category [vehicles].
+[           resources] Started resource a80ffeng
+[           resources] Started resource gallardov10
+[           resources] Started resource k20a
+[           resources] Started resource kc144kawazx10rsc
+[           resources] Started resource lambov10
+[  resources:mazrx7fb] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:14)
+[           resources] Started resource mazrx7fb (1 warning)
+[  resources:r34sound] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:14)
+[           resources] Started resource r34sound (1 warning)
+[           resources] Started resource rotary7
+[           resources] Started resource suzukigsxr1k
+[           resources] Started resource tayamahar1
+[      script:oxmysql] [10.4.28-MariaDB] Database server connection established!
+[     script:dpemotes] 
+[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[      script:oxmysql] 2 2
+[      script:oxmysql] 7 7
+[      script:oxmysql] 4 5
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.4)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.5
+[  script:es_extended] [INFO] ESX Legacy 1.10.1 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kaelkanaeru-veak7q.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-main] -> Quitting: SIGHUP received
+[ citizen-server-impl] [91mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+
+================================================================
+======== FXServer Starting - 10/6/2023, 13:53:15                
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 95 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] [0mCreating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[           resources] Started resource NoNPC
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] [0mStarted resource es_extended
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] [0mCreating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for LegacyFuel
+[           resources] Started resource LegacyFuel
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ac_scoreboard
+[resources:ac_scorebo] Warning: could not find file `web/build/index.html` (defined in fxmanifest.lua:27)
+[           resources] Started resource ac_scoreboard (1 warning)
+[           resources] Started resource dpclothing
+[    c-scripting-core] [0mCreating script environments for dpemotes
+[           resources] Started resource dpemotes
+[    c-scripting-core] Creating script environments for esx-radio
+[    c-scripting-core] Failed to load script @ox_lib/init.lua.
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] [0mStarted resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_farmer
+[           resources] Started resource esx_farmer
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_givevehicle
+[           resources] Started resource esx_givevehicle
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] [0mCreating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[    c-scripting-core] Creating script environments for esx_wsync
+[           resources] Started resource esx_wsync
+[           resources] Started resource SimpleCarHUD
+[           resources] Started resource ocrp_postal_map
+[ citizen-server-impl] Couldn't find resource category [vehicles].
+[           resources] Started resource a80ffeng
+[           resources] Started resource gallardov10
+[           resources] Started resource k20a
+[           resources] Started resource kc144kawazx10rsc
+[           resources] Started resource lambov10
+[  resources:mazrx7fb] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:14)
+[           resources] Started resource mazrx7fb (1 warning)
+[  resources:r34sound] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:14)
+[38;5;83m[           resources] Started resource r34sound (1 warning)
+[           resources] Started resource rotary7
+[           resources] Started resource suzukigsxr1k
+[           resources] Started resource tayamahar1
+[      script:oxmysql] [10.4.28-MariaDB] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.10.1 initialized!
+[     script:dpemotes] 
+[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[      script:oxmysql] 2 2
+[      script:oxmysql] 7 7
+[      script:oxmysql] 4 5
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.4)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.5
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl] [91m ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kaelkanaeru-veak7q.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[38;5;63m[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] network thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 133 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 166 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 166 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[      script:hardcap] Connecting: Lanaya
+[ citizen-server-impl] network thread hitch warning: timer interval of 456 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[  script:es_extended] [INFO] Player "Bejo Kontol" has connected to the server. ID: 1
+[ citizen-server-impl] server thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 234 milliseconds
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 545 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 331 milliseconds
+[         script:chat] Lanaya: clear
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [[32mINFO] Saved 1 player over 0.0 ms
+[    script:esx_wsync] [esx_wsync] New random weather type has been generated: EXTRASUNNY.
+[    script:esx_wsync] 
+[    script:esx_wsync] [esx_wsync] Resetting timer to 15 min.
+[    script:esx_wsync] 
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [0m[INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 307 milliseconds
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 328 milliseconds
+[38;5;220m[  script:es_extended] [INFO] Saved player "Bejo Kontol"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[    script:esx_wsync] SCRIPT ERROR: @esx_wsync/server/main.lua:38: attempt to get length of a number value (local 'minmax')
+[    script:esx_wsync] > getWeatherDuration (@esx_wsync/server/main.lua:38)
+[    script:esx_wsync] > fn (@esx_wsync/server/main.lua:248)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-main] -> Quitting: SIGHUP received

@@ -1,0 +1,37 @@
+
+================================================================
+======== txAdmin Starting - 9/9/2023, 07:33:45                  
+================================================================
+[07:36:16] [KaelKanaeru] created admins file
+[07:38:10] [KaelKanaeru] Changing global settings via setup stepper and started Deployer.
+[07:39:25] [KaelKanaeru] Setting recipe.
+[07:41:45] [KaelKanaeru] Running recipe.
+[07:55:37] [KaelKanaeru] Completed and committed server deploy.
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/9/2023, 08:03:50
+================================================================
+[08:04:28][KaelKanaeru] logged in from 127.0.0.1 via citizenfx
+[08:05:59][KaelKanaeru] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/9/2023, 08:07:47
+================================================================
+[08:08:03][KaelKanaeru] logged in from 127.0.0.1 via citizenfx
+[08:28:20][KaelKanaeru] Changing Player Manager settings.
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/9/2023, 15:43:35
+================================================================
+[15:44:06][KaelKanaeru] logged in from 127.0.0.1 via citizenfx
+[15:44:23][KaelKanaeru] logged in from 127.0.0.1 via citizenfx
+[15:51:50][KaelKanaeru] executed "refresh"
+[15:52:17][KaelKanaeru] executed "RESTART SERVER"
+[15:59:00][KaelKanaeru] executed "RESTART SERVER"
+[15:59:29][KaelKanaeru] executed "refresh"
+[15:59:40][KaelKanaeru] executed "RESTART SERVER"
+[16:47:57][KaelKanaeru] executed "RESTART SERVER"
+[16:48:30][KaelKanaeru] executed "ensure "ocrp_postal_map""
+[16:49:08][KaelKanaeru] executed "RESTART SERVER"
+[17:06:14][KaelKanaeru] Added 5c6c4e0a452aac736553fa42e416510a1c8540d5 to the whitelist.
+[17:06:50][KaelKanaeru] Added whitelist approval for steam...158ba76f.

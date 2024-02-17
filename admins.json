@@ -1,0 +1,21 @@
+[
+  {
+    "name": "KaelKanaeru",
+    "master": true,
+    "password_hash": "$2a$11$X32WyuT/W.BgQ0r4SK5lSurqdInWO/NwCtDuq4I/BBbOEk7wBR6G6",
+    "providers": {
+      "citizenfx": {
+        "id": "KaelKanaeru",
+        "identifier": "fivem:8783274",
+        "data": {
+          "sub": "85a735119a16f45216b2ddeaaf1cbc5d",
+          "nameid": "https://forum.cfx.re/internal/user/8783274",
+          "name": "KaelKanaeru",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/kaelkanaeru/256/3523121_2.png",
+          "profile": "https://forum.cfx.re/u/KaelKanaeru"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

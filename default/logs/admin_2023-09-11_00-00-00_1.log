@@ -1,0 +1,72 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/11/2023, 14:29:11
+================================================================
+
+================================================================
+======== Log Rotated - 9/11/2023, 14:29:11                      
+================================================================
+[14:30:44][KaelKanaeru] logged in from 127.0.0.1 via citizenfx
+[14:36:30][KaelKanaeru] executed "ensure "esx_menu_list""
+[14:37:02][KaelKanaeru] executed "ensure "esx_menu_list""
+[14:37:18][KaelKanaeru] executed "refresh"
+[14:37:23][KaelKanaeru] executed "ensure "esx_menu_list""
+[14:48:30][KaelKanaeru] executed "ensure "es_extended""
+[14:50:48][KaelKanaeru] executed "refresh"
+[14:50:55][KaelKanaeru] executed "ensure "esx_context""
+[14:50:56][KaelKanaeru] executed "ensure "esx_identity""
+[14:50:56][KaelKanaeru] executed "ensure "esx_menu_default""
+[14:50:59][KaelKanaeru] executed "ensure "esx_menu_list""
+[14:51:00][KaelKanaeru] executed "ensure "esx_menu_dialog""
+[14:51:00][KaelKanaeru] executed "ensure "esx_multicharacter""
+[14:51:05][KaelKanaeru] executed "ensure "esx_accessories""
+[14:51:05][KaelKanaeru] executed "ensure "esx_addonaccount""
+[14:51:06][KaelKanaeru] executed "ensure "esx_addoninventory""
+[14:51:06][KaelKanaeru] executed "ensure "esx_ambulancejob""
+[14:51:11][KaelKanaeru] executed "ensure "esx_banking""
+[14:51:11][KaelKanaeru] executed "ensure "esx_animations""
+[14:51:12][KaelKanaeru] executed "ensure "esx_barbershop""
+[14:51:12][KaelKanaeru] executed "ensure "esx_basicneeds""
+[14:51:18][KaelKanaeru] executed "ensure "esx_billing""
+[14:51:19][KaelKanaeru] executed "ensure "esx_boat""
+[14:51:19][KaelKanaeru] executed "ensure "esx_clotheshop""
+[14:51:20][KaelKanaeru] executed "ensure "esx_cruisecontrol""
+[14:51:24][KaelKanaeru] executed "ensure "esx_dmvschool""
+[14:51:24][KaelKanaeru] executed "ensure "esx_drugs""
+[14:51:25][KaelKanaeru] executed "ensure "esx_hud""
+[14:51:25][KaelKanaeru] executed "ensure "esx_joblisting""
+[14:51:30][KaelKanaeru] executed "ensure "esx_jobs""
+[14:51:31][KaelKanaeru] executed "ensure "esx_mechanicjob""
+[14:51:32][KaelKanaeru] executed "ensure "esx_policejob""
+[14:51:37][KaelKanaeru] executed "ensure "esx_property""
+[14:51:37][KaelKanaeru] executed "ensure "esx_rpchat""
+[14:51:38][KaelKanaeru] executed "ensure "esx_service""
+[14:51:38][KaelKanaeru] executed "ensure "esx_shops""
+[14:51:45][KaelKanaeru] executed "ensure "esx_weaponshop""
+[14:51:45][KaelKanaeru] executed "ensure "esx_taxijob""
+[14:52:22][KaelKanaeru] executed "RESTART SERVER"
+[14:58:45][KaelKanaeru] executed "RESTART SERVER"
+[15:33:14][KaelKanaeru] executed "ensure "esx_menu_list""
+[15:33:41][KaelKanaeru] executed "stop "esx_menu_dialog""
+[15:34:05][KaelKanaeru] executed "ensure "esx_menu_dialog""
+[15:38:54][KaelKanaeru] executed "ensure "esx_menu_list""
+[15:43:25][KaelKanaeru] executed "ensure "esx_menu_default""
+[15:44:21][KaelKanaeru] executed "ensure "esx_menu_default""
+[15:45:07][KaelKanaeru] executed "ensure "esx_menu_default""
+[15:52:55][KaelKanaeru] executed "stop "esx_menu_default""
+[15:57:32][KaelKanaeru] executed "stop "esx_menu_dialog""
+[15:57:33][KaelKanaeru] executed "stop "esx_menu_list""
+[16:06:58][KaelKanaeru] executed "RESTART SERVER"
+[16:07:41][KaelKanaeru] executed "RESTART SERVER"
+[16:14:00][KaelKanaeru] executed "RESTART SERVER"
+[16:15:26][KaelKanaeru] executed "refresh"
+[16:15:33][KaelKanaeru] executed "ensure "esx_wsync""
+[16:17:37][KaelKanaeru] executed "ensure "esx_wsync""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 9/11/2023, 16:18:16
+================================================================
+[16:18:36][KaelKanaeru] logged in from 127.0.0.1 via citizenfx
+[16:20:29][KaelKanaeru] executed "RESTART SERVER"
+[16:21:11][KaelKanaeru] executed "RESTART SERVER"
+[16:46:44][KaelKanaeru] executed "RESTART SERVER"

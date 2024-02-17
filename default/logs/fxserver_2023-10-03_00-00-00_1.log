@@ -1,0 +1,508 @@
+
+================================================================
+======== Log Rotated - 10/3/2023, 18:12:11                      
+================================================================
+
+================================================================
+======== FXServer Starting - 10/3/2023, 18:12:14                
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 82 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] [0mCreating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[           resources] Started resource NoNPC
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_hud
+[38;5;83m[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[38;5;83m[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[38;5;161m[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for LegacyFuel
+[           resources] [0mStarted resource LegacyFuel
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ac_scoreboard
+[resources:ac_scorebo] Warning: could not find file `web/build/index.html` (defined in fxmanifest.lua:27)
+[           resources] Started resource ac_scoreboard (1 warning)
+[           resources] Started resource dpclothing
+[    c-scripting-core] Creating script environments for dpemotes
+[           resources] Started resource dpemotes
+[    c-scripting-core] [0mCreating script environments for esx-radio
+[    c-scripting-core] Failed to load script @ox_lib/init.lua.
+[           resources] Started resource esx-radio
+[    c-scripting-core] [0mCreating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] [0mCreating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] [0mCreating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] [0mStarted resource esx_billing
+[    c-scripting-core] [0mCreating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_farmer
+[           resources] Started resource esx_farmer
+[38;5;161m[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[           resources] Started resource SimpleCarHUD
+[           resources] Started resource ocrp_postal_map
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server.lua:75)
+[      script:oxmysql] [10.4.28-MariaDB] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.10.1 initialized!
+[     script:dpemotes] 
+[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[      script:oxmysql] 2 2
+[      script:oxmysql] 7 7
+[      script:oxmysql] [0m4 5
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.4)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.5
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kaelkanaeru-veak7q.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] sync thread hitch warning: timer interval of 138 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 146 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 190 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 263 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[38;5;134m[      script:hardcap] Connecting: Lanaya
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 208 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 168 milliseconds
+[38;5;220m[  script:es_extended] [INFO] Player "Bejo Kontol" has connected to the server. ID: 1
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 877 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 1519 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 283 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 244 milliseconds
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server.lua:75)
+[ citizen-server-impl] server thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 1571 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 734 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 404 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 283 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 540 milliseconds
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server.lua:75)
+[ citizen-server-impl] server thread hitch warning: timer interval of 314 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 1777 milliseconds
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server.lua:75)
+[ citizen-server-impl] server thread hitch warning: timer interval of 416 milliseconds
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] [0m> CreateBibitStoreBlip (@esx_farmer/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server.lua:75)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server.lua:75)
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server.lua:75)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved player "Bejo Kontol"
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 10/3/2023, 21:27:04                
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 82 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] [97mCreating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[           resources] Started resource NoNPC
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] [0mCreating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for LegacyFuel
+[           resources] Started resource LegacyFuel
+[    c-scripting-core] [97mCreating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ac_scoreboard
+[resources:ac_scorebo] Warning: could not find file `web/build/index.html` (defined in fxmanifest.lua:27)
+[           resources] Started resource ac_scoreboard (1 warning)
+[           resources] Started resource dpclothing
+[    c-scripting-core] Creating script environments for dpemotes
+[           resources] [0mStarted resource dpemotes
+[    c-scripting-core] Creating script environments for esx-radio
+[    c-scripting-core] Failed to load script @ox_lib/init.lua.
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[38;5;83m[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] [0mStarted resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] [0mCreating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_farmer
+[resources:esx_farmer] Warning: could not find client_script `client/*.lua` (defined in fxmanifest.lua:14)
+[resources:esx_farmer] Warning: could not find server_script `server/*.lua` (defined in fxmanifest.lua:9)
+[           resources] Started resource esx_farmer (2 warnings)
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[38;5;83m[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] [0mStarted resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] [0mStarted resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] [0mStarted resource esx_weaponshop
+[           resources] Started resource SimpleCarHUD
+[           resources] Started resource ocrp_postal_map
+[      script:oxmysql] [10.4.28-MariaDB] Database server connection established!
+[     script:dpemotes] 
+[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[      script:oxmysql] 2 2
+[      script:oxmysql] 7 7
+[      script:oxmysql] 4 5
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.4)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.5
+[  script:es_extended] [INFO] ESX Legacy 1.10.1 initialized!
+[      script:esx_hud] [INFO[0m] esx_hud: You are using the latest version!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kaelkanaeru-veak7q.users.cfx.re/
+[ script:esx_property] [INFO] Added Property into datastore_data table
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> refresh
+[           resources] Scanning resources.
+[           resources] Found 0 new resources, and refreshed 0/82 resources.
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "esx_farmer"
+[           resources] Stopping resource esx_farmer
+[    c-scripting-core] Creating script environments for esx_farmer
+[           resources] Started resource esx_farmer
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server/server.lua:75)
+[ citizen-server-impl] server thread hitch warning: timer interval of 398 milliseconds
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 133 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 163 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 148 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 211 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 133 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 143 milliseconds
+[      script:hardcap] Connecting: Lanaya
+[38;5;73m[ citizen-server-impl] network thread hitch warning: timer interval of 338 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 324 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 388 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[38;5;220m[  script:es_extended] [INFO] Player "Bejo Kontol" has connected to the server. ID: 1
+[ citizen-server-impl] server thread hitch warning: timer interval of 1474 milliseconds
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server/server.lua:75)
+[ citizen-server-impl] server thread hitch warning: timer interval of 372 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 364 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 300 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[   script:esx_farmer] SCRIPT ERROR: @esx_farmer/server/server.lua:62: attempt to index a nil value (global 'Config')
+[   script:esx_farmer] > CreateBibitStoreBlip (@esx_farmer/server/server.lua:62)
+[   script:esx_farmer] > fn (@esx_farmer/server/server.lua:75)
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;220m[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;220m[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [ERROR] Tried To Set Account bank For Player 1 To An Invalid Number -> 0
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:esx_vehiclesh] [INFO] Rent Payments Initiated
+[38;5;81m[script:esx_vehiclesh] [INFO] Rent Payments took 1696.34 ms to execute
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 212 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:esx_service] [WARNING] Attempted To Use Inactive Service - police
+[  script:esx_service] SCRIPT ERROR: @esx_service/server/main.lua:31: bad argument #1 to 'for iterator' (table expected, got nil)
+[  script:esx_service] > handler (@esx_service/server/main.lua:31)
+[  script:esx_service] [WARNING] Attempted To Use Inactive Service - police
+[38;5;32m[  script:esx_service] SCRIPT ERROR: @esx_service/server/main.lua:31: bad argument #1 to 'for iterator' (table expected, got nil)
+[  script:esx_service] > handler (@esx_service/server/main.lua:31)
+[  script:esx_service] [WARNING] Attempted To Use Inactive Service - police
+[  script:esx_service] [91mSCRIPT ERROR: @esx_service/server/main.lua:31: bad argument #1 to 'for iterator' (table expected, got nil)
+[  script:esx_service] > handler (@esx_service/server/main.lua:31)
+[  script:esx_service] [WARNING] Attempted To Use Inactive Service - [36mpolice
+[  script:esx_service] SCRIPT ERROR: @esx_service/server/main.lua:31: bad argument #1 to 'for iterator' (table expected, got nil)
+[  script:esx_service] > handler (@esx_service/server/main.lua:31)
+[  script:esx_service] [WARNING[0m] Attempted To Use Inactive Service - police
+[38;5;32m[  script:esx_service] SCRIPT ERROR: @esx_service/server/main.lua:31: bad argument #1 to 'for iterator' (table expected, got nil)
+[  script:esx_service] > handler (@esx_service/server/main.lua:31)
+[  script:esx_service] [WARNING] Attempted To Use Inactive Service - police
+[38;5;32m[  script:esx_service] SCRIPT ERROR: @esx_service/server/main.lua:31: bad argument #1 to 'for iterator' (table expected, got nil)
+[  script:esx_service] > handler (@esx_service/server/main.lua:31)
+[38;5;32m[  script:esx_service] [WARNING] Attempted To Use Inactive Service - police
+[  script:esx_service] [WARNING] Attempted To Use Inactive Service - police
+[  script:esx_service] SCRIPT ERROR: @esx_service/server/main.lua:31: bad argument #1 to 'for iterator' (table expected, got nil)
+[  script:esx_service] > handler (@esx_service/server/main.lua:31)
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 1398 milliseconds
+[  script:es_extended] [INFO] Saved player "Bejo Kontol"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-main] -> Quitting: SIGHUP received
